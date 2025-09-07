@@ -784,8 +784,7 @@
         "images": [
             "/assets/7/SevenB.jpg",
             "/assets/7/SevenC.jpg",
-            "/assets/7/SevenD.jpg",
-            "/assets/7/SevenE.jpg"
+            "/assets/7/SevenD.jpg"
         ],
         "category": "Electric Mountain Bike",
         "description": "ANCHEER 26\" Sunshine Electric Mountain Bike for adults with a removable 48V/374Wh battery, providing up to 55 miles pedal-assist range. Equipped with a 500W brushless geared motor (Peak 750W) with top speed of 20-22 MPH. Features aluminum alloy frame, adjustable seat, 21-speed transmission, front suspension fork, LCD display, dual disc brakes, and UL2849 certification.",
@@ -1791,7 +1790,7 @@
         "image": "/assets/17/17A.jpg",
         "images": [
             "/assets/17/17B.jpg",
-            "/assets17/17C.jpg",
+            "/assets/17/17C.jpg",
             "/assets/17/17D.jpg"
         ],
         "category": "Electric Scooter",
